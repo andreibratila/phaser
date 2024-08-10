@@ -1,0 +1,14 @@
+{
+  "files": [
+    {
+      "type": "multiatlas",
+      "key": "explorationAtlas",
+      "url": "assets/game/jsons/assets/atlas/explorationAtlas.json"
+    },
+    {
+      "type": "pack",
+      "key": "charactersAtlas",
+      "url": "assets/game/jsons/assets/characters/characters.json"
+    }
+  ]
+}

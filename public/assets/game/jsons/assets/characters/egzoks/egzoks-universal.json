@@ -1,0 +1,74 @@
+{
+  "files": [
+    {
+      "type": "image",
+      "key": "21-l1",
+      "url": "assets/game/characters/21/left/1.png"
+    },
+    {
+      "type": "image",
+      "key": "21-l2",
+      "url": "assets/game/characters/21/left/2.png"
+    },
+    {
+      "type": "image",
+      "key": "21-l3",
+      "url": "assets/game/characters/21/left/3.png"
+    },
+    {
+      "type": "image",
+      "key": "21-r1",
+      "url": "assets/game/characters/21/right/1.png"
+    },
+    {
+      "type": "image",
+      "key": "21-r2",
+      "url": "assets/game/characters/21/right/2.png"
+    },
+    {
+      "type": "image",
+      "key": "21-r3",
+      "url": "assets/game/characters/21/right/3.png"
+    },
+    {
+      "type": "image",
+      "key": "21-b1",
+      "url": "assets/game/characters/21/back/1.png"
+    },
+    {
+      "type": "image",
+      "key": "21-b2",
+      "url": "assets/game/characters/21/back/2.png"
+    },
+    {
+      "type": "image",
+      "key": "21-b3",
+      "url": "assets/game/characters/21/back/3.png"
+    },
+    {
+      "type": "image",
+      "key": "21-b4",
+      "url": "assets/game/characters/21/back/4.png"
+    },
+    {
+      "type": "image",
+      "key": "21-f1",
+      "url": "assets/game/characters/21/front/1.png"
+    },
+    {
+      "type": "image",
+      "key": "21-f2",
+      "url": "assets/game/characters/21/front/2.png"
+    },
+    {
+      "type": "image",
+      "key": "21-f3",
+      "url": "assets/game/characters/21/front/3.png"
+    },
+    {
+      "type": "image",
+      "key": "21-f4",
+      "url": "assets/game/characters/21/front/4.png"
+    }
+  ]
+}

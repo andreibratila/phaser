@@ -1,0 +1,14 @@
+{
+  "files": [
+    {
+      "type": "pack",
+      "key": "egzoks-universal",
+      "url": "assets/game/jsons/assets/characters/egzoks/egzoks-universal.json"
+    },
+    {
+      "type": "pack",
+      "key": "xils-universal",
+      "url": "assets/game/jsons/assets/characters/xils/xils-universal.json"
+    }
+  ]
+}

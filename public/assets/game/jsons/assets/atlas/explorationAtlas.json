@@ -1,0 +1,253 @@
+{
+  "textures": [
+    {
+      "image": "assets/game/spritesheet/exploration-tileset.png",
+
+      "frames": [
+        {
+          "filename": "explo-landSand1",
+          "frame": { "x": 0, "y": 16, "w": 32, "h": 32 },
+          "sourceSize": { "w": 32, "h": 32 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-tree1",
+          "frame": { "x": 176, "y": 0, "w": 48, "h": 64 },
+          "sourceSize": { "w": 48, "h": 64 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-tree2",
+          "frame": { "x": 224, "y": 0, "w": 64, "h": 80 },
+          "sourceSize": { "w": 64, "h": 80 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-tree3",
+          "frame": { "x": 48, "y": 0, "w": 64, "h": 64 },
+          "sourceSize": { "w": 64, "h": 64 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-brush1",
+          "frame": { "x": 32, "y": 32, "w": 16, "h": 16 },
+          "sourceSize": { "w": 16, "h": 16 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-brush2",
+          "frame": { "x": 288, "y": 0, "w": 48, "h": 48 },
+          "sourceSize": { "w": 48, "h": 48 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-brush3",
+          "frame": { "x": 336, "y": 0, "w": 64, "h": 48 },
+          "sourceSize": { "w": 64, "h": 48 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-landCrater1",
+          "frame": { "x": 64, "y": 272, "w": 32, "h": 32 },
+          "sourceSize": { "w": 32, "h": 32 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-landCrater2",
+          "frame": { "x": 96, "y": 272, "w": 32, "h": 32 },
+          "sourceSize": { "w": 32, "h": 32 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-landCrater3",
+          "frame": { "x": 128, "y": 272, "w": 32, "h": 32 },
+          "sourceSize": { "w": 32, "h": 32 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-landCrater4",
+          "frame": { "x": 144, "y": 240, "w": 32, "h": 32 },
+          "sourceSize": { "w": 32, "h": 32 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-landCrater5",
+          "frame": { "x": 176, "y": 176, "w": 32, "h": 32 },
+          "sourceSize": { "w": 32, "h": 32 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-landCrater6",
+          "frame": { "x": 176, "y": 240, "w": 32, "h": 32 },
+          "sourceSize": { "w": 32, "h": 32 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-landCrater7",
+          "frame": { "x": 208, "y": 240, "w": 32, "h": 32 },
+          "sourceSize": { "w": 32, "h": 32 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-landCrater8",
+          "frame": { "x": 240, "y": 240, "w": 16, "h": 16 },
+          "sourceSize": { "w": 16, "h": 16 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-landCrater9",
+          "frame": { "x": 240, "y": 272, "w": 32, "h": 32 },
+          "sourceSize": { "w": 32, "h": 32 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-landCrater10",
+          "frame": { "x": 160, "y": 272, "w": 48, "h": 48 },
+          "sourceSize": { "w": 48, "h": 48 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-landCrater11",
+          "frame": { "x": 80, "y": 304, "w": 48, "h": 48 },
+          "sourceSize": { "w": 48, "h": 48 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-rock1",
+          "frame": { "x": 448, "y": 384, "w": 32, "h": 32 },
+          "sourceSize": { "w": 32, "h": 32 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-rock2",
+          "frame": { "x": 432, "y": 416, "w": 64, "h": 64 },
+          "sourceSize": { "w": 64, "h": 64 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-rock3",
+          "frame": { "x": 480, "y": 384, "w": 32, "h": 32 },
+          "sourceSize": { "w": 32, "h": 32 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-rock4",
+          "frame": { "x": 368, "y": 48, "w": 48, "h": 32 },
+          "sourceSize": { "w": 48, "h": 32 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-house1",
+          "frame": { "x": 0, "y": 176, "w": 80, "h": 96 },
+          "sourceSize": { "w": 80, "h": 96 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-house2",
+          "frame": { "x": 0, "y": 304, "w": 80, "h": 96 },
+          "sourceSize": { "w": 80, "h": 96 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-house3",
+          "frame": { "x": 0, "y": 400, "w": 80, "h": 80 },
+          "sourceSize": { "w": 80, "h": 80 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-house4",
+          "frame": { "x": 0, "y": 48, "w": 48, "h": 80 },
+          "sourceSize": { "w": 48, "h": 80 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "filename": "explo-house5",
+          "frame": { "x": 0, "y": 480, "w": 80, "h": 80 },
+          "sourceSize": { "w": 80, "h": 80 },
+          "pivot": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ]
+    }
+  ]
+}

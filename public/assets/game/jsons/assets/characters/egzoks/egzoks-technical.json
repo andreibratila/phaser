@@ -1,0 +1,74 @@
+{
+  "files": [
+    {
+      "type": "image",
+      "ley": "egzoks-technical-l1",
+      "url": "assets/game/characters/egzoks/egzok-technical/left/1.png"
+    },
+    {
+      "type": "image",
+      "ley": "egzoks-technical-l2",
+      "url": "assets/game/characters/egzoks/egzok-technical/left/2.png"
+    },
+    {
+      "type": "image",
+      "ley": "egzoks-technical-l3",
+      "url": "assets/game/characters/egzoks/egzok-technical/left/3.png"
+    },
+    {
+      "type": "image",
+      "ley": "egzoks-technical-r1",
+      "url": "assets/game/characters/egzoks/egzok-technical/right/1.png"
+    },
+    {
+      "type": "image",
+      "ley": "egzoks-technical-r2",
+      "url": "assets/game/characters/egzoks/egzok-technical/right/2.png"
+    },
+    {
+      "type": "image",
+      "ley": "egzoks-technical-r3",
+      "url": "assets/game/characters/egzoks/egzok-technical/right/3.png"
+    },
+    {
+      "type": "image",
+      "ley": "egzoks-technical-b1",
+      "url": "assets/game/characters/egzoks/egzok-technical/back/1.png"
+    },
+    {
+      "type": "image",
+      "ley": "egzoks-technical-b2",
+      "url": "assets/game/characters/egzoks/egzok-technical/back/2.png"
+    },
+    {
+      "type": "image",
+      "ley": "egzoks-technical-b3",
+      "url": "assets/game/characters/egzoks/egzok-technical/back/3.png"
+    },
+    {
+      "type": "image",
+      "ley": "egzoks-technical-b4",
+      "url": "assets/game/characters/egzoks/egzok-technical/back/4.png"
+    },
+    {
+      "type": "image",
+      "ley": "egzoks-technical-f1",
+      "url": "assets/game/characters/egzoks/egzok-technical/front/1.png"
+    },
+    {
+      "type": "image",
+      "ley": "egzoks-technical-f2",
+      "url": "assets/game/characters/egzoks/egzok-technical/front/2.png"
+    },
+    {
+      "type": "image",
+      "ley": "egzoks-technical-f3",
+      "url": "assets/game/characters/egzoks/egzok-technical/front/3.png"
+    },
+    {
+      "type": "image",
+      "ley": "egzoks-technical-f4",
+      "url": "assets/game/characters/egzoks/egzok-technical/front/4.png"
+    }
+  ]
+}

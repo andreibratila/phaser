@@ -1,0 +1,84 @@
+{
+  "files": [
+    {
+      "type": "image",
+      "key": "11-l1",
+      "url": "assets/game/characters/11/left/1.png"
+    },
+    {
+      "type": "image",
+      "key": "11-l2",
+      "url": "assets/game/characters/11/left/2.png"
+    },
+    {
+      "type": "image",
+      "key": "11-l3",
+      "url": "assets/game/characters/11/left/3.png"
+    },
+    {
+      "type": "image",
+      "key": "11-l4",
+      "url": "assets/game/characters/11/left/4.png"
+    },
+    {
+      "type": "image",
+      "key": "11-r1",
+      "url": "assets/game/characters/11/right/1.png"
+    },
+    {
+      "type": "image",
+      "key": "11-r2",
+      "url": "assets/game/characters/11/right/2.png"
+    },
+    {
+      "type": "image",
+      "key": "11-r3",
+      "url": "assets/game/characters/11/right/3.png"
+    },
+    {
+      "type": "image",
+      "key": "11-r4",
+      "url": "assets/game/characters/11/right/4.png"
+    },
+    {
+      "type": "image",
+      "key": "11-b1",
+      "url": "assets/game/characters/11/back/1.png"
+    },
+    {
+      "type": "image",
+      "key": "11-b2",
+      "url": "assets/game/characters/11/back/2.png"
+    },
+    {
+      "type": "image",
+      "key": "11-b3",
+      "url": "assets/game/characters/11/back/3.png"
+    },
+    {
+      "type": "image",
+      "key": "11-b4",
+      "url": "assets/game/characters/11/back/4.png"
+    },
+    {
+      "type": "image",
+      "key": "11-f1",
+      "url": "assets/game/characters/11/front/1.png"
+    },
+    {
+      "type": "image",
+      "key": "11-f2",
+      "url": "assets/game/characters/11/front/2.png"
+    },
+    {
+      "type": "image",
+      "key": "11-f3",
+      "url": "assets/game/characters/11/front/3.png"
+    },
+    {
+      "type": "image",
+      "key": "11-f4",
+      "url": "assets/game/characters/11/front/4.png"
+    }
+  ]
+}
